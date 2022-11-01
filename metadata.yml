@@ -1,0 +1,12 @@
+---
+:id: 142075816
+:submitters:
+- :name: Cindy Wei
+  :email: weicindy@seas.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-10-19 17:58:52.620293000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-10-19 10:58:52.620293000 Z
+:status: processed
+:score: 76.0
